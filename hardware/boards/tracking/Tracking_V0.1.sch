@@ -7862,20 +7862,59 @@ Push-push type uSD socket. Schematic element and footprint production proven. Sp
 Radiall  and M/A COM.&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="BU-SMA-V">
+<package name="BU-SMA-G">
 <description>FEMALE &lt;b&gt;SMA CONNECTOR&lt;/b&gt;&lt;p&gt;
 Radiall&lt;p&gt;
-distributor RS 112-3794</description>
-<wire x1="-1.1" y1="3.2" x2="1.1" y2="3.2" width="0.2032" layer="21"/>
-<wire x1="3.2" y1="1.1" x2="3.2" y2="-1.1" width="0.2032" layer="21"/>
-<wire x1="1.1" y1="-3.2" x2="-1.1" y2="-3.2" width="0.2032" layer="21"/>
-<wire x1="-3.2" y1="-1.1" x2="-3.2" y2="1.1" width="0.2032" layer="21"/>
-<wire x1="-3.1999" y1="3.1999" x2="3.2" y2="3.2" width="0.2032" layer="51"/>
-<wire x1="3.2" y1="3.2" x2="3.1999" y2="-3.1999" width="0.2032" layer="51"/>
-<wire x1="3.1999" y1="-3.1999" x2="-3.2" y2="-3.2" width="0.2032" layer="51"/>
-<wire x1="-3.2" y1="-3.2" x2="-3.1999" y2="3.1999" width="0.2032" layer="51"/>
-<circle x="0" y="0" radius="3.1999" width="0.2032" layer="51"/>
-<circle x="0" y="0" radius="1.7" width="0.2032" layer="21"/>
+distributor RS 193-9117</description>
+<wire x1="-1.1" y1="3.4" x2="1.1" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="1.1" x2="3.4" y2="-1.1" width="0.2032" layer="21"/>
+<wire x1="1.1" y1="-3.4" x2="-1.1" y2="-3.4" width="0.2032" layer="21"/>
+<wire x1="-3.4" y1="-1.1" x2="-3.4" y2="1.1" width="0.2032" layer="21"/>
+<wire x1="-3.4" y1="3.4" x2="3.4" y2="3.4" width="0.2032" layer="51"/>
+<wire x1="3.4" y1="3.4" x2="3.4" y2="-3.4" width="0.2032" layer="51"/>
+<wire x1="3.4" y1="-3.4" x2="-3.4" y2="-3.4" width="0.2032" layer="51"/>
+<wire x1="-3.4" y1="-3.4" x2="-3.4" y2="3.4" width="0.2032" layer="51"/>
+<wire x1="5.4" y1="3.3" x2="6.3" y2="3.3" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="3.3" x2="6.3" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="2.9" x2="7.1" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="7.1" y1="2.9" x2="7.1" y2="3.3" width="0.2032" layer="21"/>
+<wire x1="7.1" y1="3.3" x2="8" y2="3.3" width="0.2032" layer="21"/>
+<wire x1="15" y1="3.4" x2="15.3" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="15.3" y1="2.9" x2="15.9" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="15.9" y1="-2.9" x2="15.9" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="3.4" x2="15" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="5.4" y1="-3.3" x2="6.3" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="-3.3" x2="6.3" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="6.3" y1="-2.9" x2="7.1" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="7.1" y1="-2.9" x2="7.1" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="7.1" y1="-3.3" x2="8" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="15" y1="-3.4" x2="15.3" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="15.3" y1="-2.9" x2="15.9" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="-3.4" x2="15" y2="-3.4" width="0.2032" layer="21"/>
+<wire x1="15.3" y1="-2.9" x2="15.3" y2="2.9" width="0.2032" layer="21"/>
+<wire x1="5.4" y1="-3.9" x2="5.4" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="5.4" y1="-3.3" x2="5.4" y2="3.3" width="0.2032" layer="21"/>
+<wire x1="5.4" y1="3.3" x2="5.4" y2="3.9" width="0.2032" layer="21"/>
+<wire x1="8" y1="4.4" x2="8.9" y2="4.4" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="-4.4" x2="8" y2="-4.4" width="0.2032" layer="21"/>
+<wire x1="8" y1="-2.2" x2="8" y2="2.2" width="0.2032" layer="21"/>
+<wire x1="8" y1="-2.2" x2="8.9" y2="-2.2" width="0.2032" layer="21"/>
+<wire x1="8" y1="-2.2" x2="8" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="8" y1="-3.3" x2="8" y2="-4.4" width="0.2032" layer="21"/>
+<wire x1="8" y1="2.2" x2="8.9" y2="2.2" width="0.2032" layer="21"/>
+<wire x1="8" y1="2.2" x2="8" y2="3.3" width="0.2032" layer="21"/>
+<wire x1="8" y1="3.3" x2="8" y2="4.4" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="2.2" x2="8.9" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="3.4" x2="8.9" y2="4.4" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="2.2" x2="8.9" y2="-2.2" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="-4.4" x2="8.9" y2="-3.4" width="0.2032" layer="21"/>
+<wire x1="8.9" y1="-3.4" x2="8.9" y2="-2.2" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="3.9" x2="5.4" y2="3.9" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="-3.9" x2="5.4" y2="-3.9" width="0.2032" layer="21"/>
+<wire x1="3.4" y1="3.9" x2="3.4" y2="3.4" width="0.2032" layer="51"/>
+<wire x1="3.4" y1="-3.4" x2="3.4" y2="-3.9" width="0.2032" layer="51"/>
+<wire x1="6.3" y1="2.9" x2="6.3" y2="-2.9" width="0.2032" layer="21"/>
+<wire x1="7.1" y1="2.9" x2="7.1" y2="-2.9" width="0.2032" layer="21"/>
 <pad name="1" x="0" y="0" drill="1.27"/>
 <pad name="2" x="-2.5499" y="2.5499" drill="1.778"/>
 <pad name="3" x="2.5499" y="2.5499" drill="1.778"/>
@@ -7902,18 +7941,18 @@ distributor RS 112-3794</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="BU-SMA-V" prefix="X">
+<deviceset name="BU-SMA-G" prefix="X">
 <description>FEMALE &lt;b&gt;SMA CONNECTOR&lt;/b&gt;&lt;p&gt;
 Radiall&lt;p&gt;
-distributor RS 112-3794</description>
+distributor RS 193-9117</description>
 <gates>
-<gate name="G$1" symbol="BNC-FGND" x="-2.54" y="0"/>
+<gate name="G1" symbol="BNC-FGND" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="BU-SMA-V">
+<device name="" package="BU-SMA-G">
 <connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2 3 4 5"/>
+<connect gate="G1" pin="1" pad="1"/>
+<connect gate="G1" pin="2" pad="2 3 4 5"/>
 </connects>
 <technologies>
 <technology name="">
@@ -8491,9 +8530,6 @@ distributor RS 112-3794</description>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
-<part name="GPS" library="con-coax" deviceset="BU-SMA-V" device="">
-<attribute name="OC_FARNELL" value="2144531"/>
-</part>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0603" value="100n">
 <attribute name="OC_FARNELL" value="2429362"/>
 </part>
@@ -8508,9 +8544,6 @@ distributor RS 112-3794</description>
 </part>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="3V6" library="supply1" deviceset="VCC" device=""/>
-<part name="RADIO" library="con-coax" deviceset="BU-SMA-V" device="">
-<attribute name="OC_FARNELL" value="2144531"/>
-</part>
 <part name="U$6" library="Ava" deviceset="RADIOMETRIX-MTX2" device=""/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C0603" value="100n">
 <attribute name="OC_FARNELL" value="2429362"/>
@@ -8551,6 +8584,8 @@ distributor RS 112-3794</description>
 <part name="LOCAL" library="jumper" deviceset="SJ" device=""/>
 <part name="P+5" library="supply1" deviceset="V+" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-2X11" device=""/>
+<part name="GPS" library="con-coax" deviceset="BU-SMA-G" device=""/>
+<part name="RADIO" library="con-coax" deviceset="BU-SMA-G" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -8625,7 +8660,6 @@ distributor RS 112-3794</description>
 <instance part="GND8" gate="1" x="137.16" y="0"/>
 <instance part="GND9" gate="1" x="83.82" y="0"/>
 <instance part="P+4" gate="VCC" x="137.16" y="55.88"/>
-<instance part="GPS" gate="G$1" x="68.58" y="43.18"/>
 <instance part="C12" gate="G$1" x="142.24" y="33.02">
 <attribute name="OC_FARNELL" x="142.24" y="33.02" size="1.27" layer="96" display="off"/>
 </instance>
@@ -8640,7 +8674,6 @@ distributor RS 112-3794</description>
 </instance>
 <instance part="GND11" gate="1" x="27.94" y="-2.54"/>
 <instance part="3V6" gate="VCC" x="27.94" y="50.8"/>
-<instance part="RADIO" gate="G$1" x="20.32" y="63.5"/>
 <instance part="U$6" gate="G$1" x="48.26" y="40.64" rot="R270"/>
 <instance part="C11" gate="G$1" x="20.32" y="22.86">
 <attribute name="OC_FARNELL" x="20.32" y="22.86" size="1.27" layer="96" display="off"/>
@@ -8681,6 +8714,8 @@ distributor RS 112-3794</description>
 <instance part="LOCAL" gate="1" x="73.66" y="68.58"/>
 <instance part="P+5" gate="1" x="66.04" y="73.66"/>
 <instance part="JP1" gate="A" x="289.56" y="12.7"/>
+<instance part="GPS" gate="G1" x="68.58" y="43.18"/>
+<instance part="RADIO" gate="G1" x="20.32" y="63.5"/>
 </instances>
 <busses>
 </busses>
@@ -8918,13 +8953,13 @@ distributor RS 112-3794</description>
 <wire x1="83.82" y1="15.24" x2="83.82" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="38.1" x2="83.82" y2="38.1" width="0.1524" layer="91"/>
 <junction x="83.82" y="38.1"/>
-<pinref part="GPS" gate="G$1" pin="2"/>
 <wire x1="71.12" y1="40.64" x2="83.82" y2="40.64" width="0.1524" layer="91"/>
 <junction x="83.82" y="40.64"/>
 <pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="17.78" x2="73.66" y2="15.24" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="15.24" x2="83.82" y2="15.24" width="0.1524" layer="91"/>
 <junction x="83.82" y="15.24"/>
+<pinref part="GPS" gate="G1" pin="2"/>
 </segment>
 <segment>
 <wire x1="33.02" y1="20.32" x2="27.94" y2="20.32" width="0.1524" layer="91"/>
@@ -10048,11 +10083,11 @@ distributor RS 112-3794</description>
 <net name="N$1" class="0">
 <segment>
 <pinref part="U$4" gate="G$1" pin="11_RF_IN"/>
-<pinref part="GPS" gate="G$1" pin="1"/>
 <wire x1="88.9" y1="43.18" x2="73.66" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="L1" gate="G$1" pin="1"/>
 <wire x1="73.66" y1="43.18" x2="71.12" y2="43.18" width="0.1524" layer="91"/>
 <junction x="73.66" y="43.18"/>
+<pinref part="GPS" gate="G1" pin="1"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -10074,18 +10109,18 @@ distributor RS 112-3794</description>
 </net>
 <net name="RFGND" class="0">
 <segment>
-<pinref part="RADIO" gate="G$1" pin="2"/>
 <wire x1="22.86" y1="60.96" x2="27.94" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="68.58" x2="27.94" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="27.94" y1="68.58" x2="27.94" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="U$6" gate="G$1" pin="RFGND"/>
+<pinref part="RADIO" gate="G1" pin="2"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="RADIO" gate="G$1" pin="1"/>
 <wire x1="33.02" y1="63.5" x2="22.86" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="U$6" gate="G$1" pin="RFOUT"/>
+<pinref part="RADIO" gate="G1" pin="1"/>
 </segment>
 </net>
 <net name="N$7" class="0">
